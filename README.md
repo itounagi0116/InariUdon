@@ -1,9 +1,10 @@
 # InariUdon  
 VRChat World SDK 3.0 用の便利なプレハブとUdonスクリプト  
 
-**重要: UdonSharp が [**UdonSharp 1.x**](https://github.com/vrchat-community/UdonSharp) にアップグレードされました。プロジェクトを [VRChat Creator Companion(VCC)](https://github.com/vrchat-community/creator-companion) を使って作成する必要があります。**  
-
-**Udon Sun Controller をお探しですか？** このパッケージには含まれていません。代わりに[こちら](https://github.com/esnya/UdonSunController)をご覧ください。  
+## 必要要件
+- [VRChat Creator Companion(VCC)](https://github.com/vrchat-community/creator-companion) 経由でインストールする [**UdonSharp 1.x**](https://github.com/vrchat-community/UdonSharp)
+- [UdonToolkit](https://github.com/orels1/UdonToolkit/)
+- [Udon Sun Controller](https://github.com/esnya/UdonSunController)
 
 ---
 
