@@ -1,5 +1,7 @@
 # InariUdon  
-VRChat World SDK 3.0 用の便利なプレハブとUdonスクリプト  
+VRChat World SDK 3.0 用の便利なプレハブとUdonスクリプト
+
+[![GitHub license](https://img.shields.io/github/license/SeaeeesSan/SimpleFolderIcon)](https://github.com/SeaeeesSan/SimpleFolderIcon/blob/master/LICENSE)
 
 ## 必要要件
 - [VRChat Creator Companion(VCC)](https://github.com/vrchat-community/creator-companion) 経由でインストールする [**UdonSharp 1.x**](https://github.com/vrchat-community/UdonSharp)
