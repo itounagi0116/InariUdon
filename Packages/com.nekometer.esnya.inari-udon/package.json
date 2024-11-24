@@ -22,7 +22,6 @@
   },
   "vpmDependencies": {
     "com.vrchat.worlds": "3.1.1",
-    "com.vrchat.udonsharp": "1.1.7",
     "sh.orels.udontoolkit": "1.1.2"
   },
   "devDependencies": {
@@ -36,8 +35,13 @@
   "unity": "2022.3",
   "legacyFolders": {
     "Assets\\InariUdon": "",
-    "Assets\\InariUdon\\Examples": ""
+    "Assets\\InariUdon\\Examples": "",
+    "Assets\\UdonSharp": "b031f928e5c709b4887f6513084aaa51",
+    "Assets\\Gizmos\\UdonSharp": "6e940dfc89ce4ca41b651e05bc21be6b"
   },
+  "legacyPackages": [
+    "com.vrchat.udonsharp"
+  ],
   "homepage": "https://github.com/esnya/InariUdon#readme",
   "bugs": {
     "url": "https://github.com/esnya/InariUdon/issues"
