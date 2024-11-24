@@ -24,7 +24,9 @@ Udon Sun Controllerをお探しですか？このパッケージには含まれ�
    - 安定版:  
      `https://github.com/esnya/InariUdon.git?path=/Packages/com.nekometer.esnya.inari-udon`  
    - ベータ版:  
-     `https://github.com/esnya/InariUdon.git?path=/Packages/com.nekometer.esnya.inari-udon#beta`  
+     `https://github.com/esnya/InariUdon.git?path=/Packages/com.nekometer.esnya.inari-udon#beta`
+   - Fork版:  
+     `https://github.com/itounagi0116/InariUdon.git?path=/Packages/com.nekometer.esnya.inari-udon`    
 
 ---
 
