@@ -2,7 +2,6 @@
 
 using UdonSharp;
 using UnityEngine;
-using UdonToolkit;
 using VRC.SDKBase;
 
 namespace InariUdon.Trigger

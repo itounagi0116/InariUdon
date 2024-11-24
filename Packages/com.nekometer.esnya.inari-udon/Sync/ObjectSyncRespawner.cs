@@ -5,7 +5,6 @@ using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 using VRC.SDK3.Components;
-using UdonToolkit;
 
 namespace InariUdon.Sync
 {

@@ -1,7 +1,6 @@
 ﻿using BestHTTP.SecureProtocol.Org.BouncyCastle.Security;
 using TMPro;
 using UdonSharp;
-using UdonToolkit;
 using UnityEditor;
 using UnityEngine;
 using VRC.Core;

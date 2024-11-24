@@ -1,7 +1,6 @@
 
 using TMPro;
 using UdonSharp;
-using UdonToolkit;
 using UnityEngine;
 
 namespace InariUdon.UI

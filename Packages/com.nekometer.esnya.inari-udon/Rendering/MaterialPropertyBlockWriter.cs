@@ -1,7 +1,6 @@
 
 using System;
 using UdonSharp;
-using UdonToolkit;
 using UnityEngine;
 using VRC.Udon;
 #if !COMPILER_UDONSHARP && UNITY_EDITOR

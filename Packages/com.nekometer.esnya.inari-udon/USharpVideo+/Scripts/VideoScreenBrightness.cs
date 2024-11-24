@@ -1,7 +1,6 @@
 ﻿using UdonSharp;
 using UnityEngine;
 using UnityEngine.UI;
-using UdonToolkit;
 
 namespace InariUdon.UdonSharpVideoPlus
 {
