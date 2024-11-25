@@ -2,7 +2,7 @@
 
 ![ライセンスバッジ](https://img.shields.io/badge/ライセンス-MIT-007EC6)
 
-[日本語](https://github.com/itounagi0116/InariUdon/blob/master/README_JP.md)
+[![日本語](https://img.shields.io/badge/言語-日本語-4caf50?style=flat-square&logo=example&logoColor=white)](README_JP.md)
 
 Useful prefabs and Udon scripts for VRChat World SDK 3.0
 
